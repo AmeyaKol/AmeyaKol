@@ -6,8 +6,8 @@ I'm a Software Engineer and CS Master's graduate from UIUC with 1+ years of prod
 
 ## 🎓 Education
 
-* **University of Illinois Urbana-Champaign** — Master of Computer Science (GPA: 3.95/4.0) *(Aug 2024 – May 2026)*
-* **Pune Institute of Computer Technology (Pune University)** — Bachelor of Engineering in Computer Engineering (GPA: 9.38/10.0) *(Jul 2020 – Jun 2024)*
+* **University of Illinois Urbana-Champaign**:  Master of Computer Science (GPA: 3.95/4.0)
+* **Pune Institute of Computer Technology (Pune University)**:  Bachelor of Engineering in Computer Engineering (GPA: 9.38/10.0)
 
 ---
 
