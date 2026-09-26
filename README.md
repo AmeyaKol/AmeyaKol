@@ -1,6 +1,6 @@
 # Hi there, I'm Ameya Kolhatkar 👋
 
-I'm a Software Engineer and CS Master's graduate from UIUC with 1+ years of production experience building AI-powered, full-stack systems across 3 internships and 2 projects. 
+I'm a Software Engineer and CS Master's graduate from UIUC with 1+ years of production experience building AI-powered, full-stack systems across 3 internships and 2 projects. I'm proficient in Python, JavaScript, TypeScript, SQL, and NoSQL databases, and in building RAG-powered LLM pipelines.
 
 ---
 
